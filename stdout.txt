@@ -1,0 +1,9 @@
+============================= test session starts =============================
+platform win32 -- Python 3.8.2, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- C:\Users\Usuario\AppData\Local\Programs\Python\Python38-32\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Usuario\codenation\python-5, inifile:
+collecting ... collected 1 item
+
+test_main.py::TestChallenge1::test_len PASSED                            [100%]
+
+========================== 1 passed in 0.07 seconds ===========================
